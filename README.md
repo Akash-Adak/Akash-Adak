@@ -173,7 +173,7 @@ Contributed to multiple open source projects and made meaningful impact in the c
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akash-Adak&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 ## 🏅 GitHub Trophies
 
