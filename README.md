@@ -210,17 +210,6 @@ Contributed to multiple open source projects and made meaningful impact in the c
   <a href="https://github.com/Akash-Adak"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<div align="center">
-
-### 💭 Dev Quote of the Day
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Here's a Random Dev Meme for You
-
-<img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
-
-</div>
 
 ---
 
