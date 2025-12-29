@@ -38,18 +38,18 @@ I'm a passionate full-stack developer who transforms ideas into elegant code. I 
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akash-Adak&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=F59E0B&text_color=FFFFFF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Adak&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF"/>
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-Adak&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=FFFFFF" alt="GitHub Streak"/>
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-Adak&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=A855F7&line=F59E0B&point=FFFFFF" alt="Activity Graph"/>
-</div>
+</p>
 
 # 🛠️ Tech Arsenal
 
