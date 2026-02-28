@@ -50,19 +50,6 @@ Hey! I'm Akash — a developer who loves turning caffeine into code ☕💻
 
 ---
 
-## 🏅 GitHub Trophies (STABLE VERSION)
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Akash-Adak&theme=radical&no-frame=true&margin-w=10&column=6&cache=1"
-    alt="GitHub Trophies"
-  />
-</p>
-
-> ⚠️ If this ever disappears: it’s **Vercel downtime**, not your README.
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
